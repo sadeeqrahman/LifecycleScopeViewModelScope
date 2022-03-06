@@ -1,0 +1,2 @@
+rootProject.name = "LifecycleScopeViewModelScope"
+include ':app'
